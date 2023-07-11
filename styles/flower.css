@@ -114,3 +114,14 @@ body {
 .flower{
     padding: 100px 400px 100px 200px;
 }
+.fashion{
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: space-between;
+    padding: 100px 400px 100px 200px;
+    align-items: center;
+}
+.cute-child{
+    padding-left: 250px;
+    
+}
